@@ -1,0 +1,6 @@
+{
+  "name": "Number Connect",
+  "description": "같은 숫자 혹은 두 배가 되는 숫자의 타일을 연결하여 더 큰 숫자로 합치는 퍼즐 게임입니다. 길게 연결하여 높은 점수를 획득하세요!",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
