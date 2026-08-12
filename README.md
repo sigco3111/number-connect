@@ -2,7 +2,7 @@
 
 숫자를 연결하여 점수를 얻는 퍼즐 게임입니다. 인접한 동일한 숫자 타일부터 시작하여 연속으로 같거나 두 배 값의 타일을 연결해 점수를 획득하세요!
 
-실행주소1 : https://number-connect.vercel.app/
+실행주소1 : https://sigco3111.github.io/number-connect/
 
 실행주소2 : https://dev-canvas-pi.vercel.app/
 
