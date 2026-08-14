@@ -2,9 +2,9 @@
 
 숫자를 연결하여 점수를 얻는 퍼즐 게임입니다. 인접한 동일한 숫자 타일부터 시작하여 연속으로 같거나 두 배 값의 타일을 연결해 점수를 획득하세요!
 
-실행주소1 : https://sigco3111.github.io/number-connect/
+라이브 데모 : https://sigco3111.github.io/number-connect/
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 GitHub Pages로 이관되었습니다 (2026-08). 과거 Vercel alias는 더 이상 유효하지 않으므로 위 Pages URL을 사용해 주세요.
 
 ## 게임 규칙
 
