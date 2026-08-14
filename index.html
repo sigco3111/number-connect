@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/number-connect/favicon.svg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/number-connect/favicon.svg" />
+    <meta name="theme-color" content="#334155" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Number Connect</title>
+    <script src="/number-connect/favicon.js" defer></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+<style>
+  @keyframes pop-in {
+    0% { transform: scale(0.5) translateY(10px); opacity: 0; }
+    70% { transform: scale(1.1); opacity: 1; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+  .animate-pop-in {
+    animation: pop-in 0.3s ease-out forwards;
+  }
+
+  @keyframes shrink-width {
+    from { width: 100%; }
+    to { width: 0%; }
+  }
+  .animate-shrink-width {
+    animation-name: shrink-width;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+  }
+
+  @keyframes float-up {
+      0% { transform: translateY(0) scale(1); opacity: 1; }
+      100% { transform: translateY(-80px) scale(1.2); opacity: 0; }
+  }
+  .animate-float-up {
+      animation: float-up 1.5s ease-out forwards;
+  }
+</style>
+  <script type="importmap">
+{
+  "imports": {
+    "react": "https://esm.sh/react@^19.1.0",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.0/",
+    "react/": "https://esm.sh/react@^19.1.0/"
+  }
+}
+</script>
+  <script type="module" crossorigin src="/number-connect/assets/index-CEJzRS3c.js"></script>
+</head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
